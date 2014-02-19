@@ -1,0 +1,19 @@
+{
+  "name": "passport-local-caminte",
+  "version": "0.0.0",
+  "description": "Passport local login strategy using caminte orm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/harish/Projects/backup/passport-local-caminte"
+  },
+  "keywords": [
+    "passport",
+    "caminte"
+  ],
+  "author": "Harish.K",
+  "license": "BSD"
+}
