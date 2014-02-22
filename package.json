@@ -1,8 +1,8 @@
 {
   "name": "passport-local-caminte",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Passport local login strategy using caminte orm",
-  "main": "index.js",
+  "main": "lib/passport-local-caminte.js",
   "scripts": {
     "test": "test-command"
   },
